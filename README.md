@@ -3,4 +3,4 @@
 
 #效果图
 
-[image](https://github.com/dalong982242260/ChinaMap/blob/master/gif/map.gif)
+![image](https://github.com/dalong982242260/ChinaMap/blob/master/gif/map.gif)
